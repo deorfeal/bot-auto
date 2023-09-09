@@ -1,0 +1,979 @@
+{
+    "cars": [{
+            "carId": "0",
+            "modifications": {
+                "modification1": {
+                    "modificationName": "RT 5.3L",
+                    "modificationId": 0,
+                    "carName": {
+                        "name": "Chevrolet",
+                        "subName": "TAHOE-2"
+                    },
+                    "inStock": "В наличии",
+                    "price": "1 109 274 880",
+                    "image": "https://imageupload.io/ib/ydaVClTxyTVwEus_1694243683.jpg",
+                    "selects": {
+                        "generalInformation": [{
+                            "power": "252 кВт / 343 л. с. при 5600",
+                            "transmission": "10AT",
+                            "fuelConsumption": "12.6//17.9 л",
+                            "acceleration": "8 сек до 100 км/ч",
+                            "availability": "5",
+                            "queue": "53",
+                            "modification": "RT 5.3L",
+                            "moreAboutModel": "Подробная информация о модели",
+                            "someGeneralInformation": ["Информация", "Еще инфомация", "Больше информации", "Еще больше информации"],
+                            "deliveryTime": "22.08.2023"
+                        }]
+                    },
+                    "colors": {
+                        "colorsNames": [
+                            "#9E4D5C",
+                            "#ffffff",
+                            "#D4D8F3",
+                            "#010101"
+                        ],
+                        "imageForColor": [
+                            "https://imageupload.io/ib/UgkIvkNrzLO8Acs_1694243288.png",
+                            "https://imageupload.io/ib/UgkIvkNrzLO8Acs_1694243288.png",
+                            "https://imageupload.io/ib/YB2Sdd91pNIeiGL_1694243608.png",
+                            "https://imageupload.io/ib/UgkIvkNrzLO8Acs_1694243288.png"
+                        ]
+                    },
+                    "contracts": [{
+                            "contractDetails": {
+                                "contractNumber": "12345678910",
+                                "orderDate": "01.02.2023",
+                                "dealer": "“BUXARA AVTO MAGNAT” MCHJ"
+                            }
+                        },
+                        {
+                            "contractDetails": {
+                                "model": "Chevrolet TAHOE-2",
+                                "modifications": "RT 5.3L",
+                                "VINNumber": "12345AA6789"
+                            }
+                        },
+                        {
+                            "contractDetails": {
+                                "queueNumber": "100",
+                                "expectedDate": "25.05.2023"
+                            }
+                        },
+                        {
+                            "contractDetails": {
+                                "totalCost": "1,109,274,880",
+                                "paidAmount": "109,274,880",
+                                "remainingAmount": "1,000,000,000"
+                            }
+                        }
+                    ]
+                },
+                "modification2": {
+                    "modificationName": "RT 5.3L",
+                    "modificationId": 1,
+                    "carName": {
+                        "name": "Chevrolet 2",
+                        "subName": "TAHOE-2"
+                    },
+                    "inStock": "Проданы",
+                    "price": "1 109 274 849 2",
+                    "image": "https://imageupload.io/ib/ydaVClTxyTVwEus_1694243683.jpg",
+                    "selects": {
+                        "generalInformation": [{
+                            "power": "252 кВт / 343 л. с. при 5600",
+                            "transmission": "10AT",
+                            "fuelConsumption": "12.6//17.9 л",
+                            "acceleration": "8 сек до 100 км/ч",
+                            "availability": "5",
+                            "queue": "53",
+                            "modification": "RT 5.3L2",
+                            "moreAboutModel": "Подробная информация о модели",
+                            "someGeneralInformation": ["Информация", "Еще инфомация", "Больше информации", "Еще больше информации"],
+                            "deliveryTime": "22.08.2023"
+                        }]
+                    },
+                    "colors": {
+                        "colorsNames": [
+                            "#9E4D5C",
+                            "#ffffff",
+                            "#D4D8F3",
+                            "#010101"
+                        ],
+                        "imageForColor": [
+                            "https://imageupload.io/ib/YB2Sdd91pNIeiGL_1694243608.png",
+                            "https://imageupload.io/ib/YB2Sdd91pNIeiGL_1694243608.png",
+                            "https://imageupload.io/ib/YB2Sdd91pNIeiGL_1694243608.png",
+                            "https://imageupload.io/ib/YB2Sdd91pNIeiGL_1694243608.png"
+                        ]
+                    },
+                    "contracts": [{
+                            "contractDetails": {
+                                "contractNumber": "12345678910",
+                                "orderDate": "01.02.2023",
+                                "dealer": "“BUXARA AVTO MAGNAT” MCHJ"
+                            }
+                        },
+                        {
+                            "contractDetails": {
+                                "model": "Chevrolet TAHOE-2",
+                                "modifications": "RT 5.3L",
+                                "VINNumber": "12345AA6789"
+                            }
+                        },
+                        {
+                            "contractDetails": {
+                                "queueNumber": "100",
+                                "expectedDate": "25.05.2023"
+                            }
+                        },
+                        {
+                            "contractDetails": {
+                                "totalCost": "1,109,274,880",
+                                "paidAmount": "109,274,880",
+                                "remainingAmount": "1,000,000,000"
+                            }
+                        }
+                    ]
+                },
+                "modification3": {
+                    "modificationName": "RT 5.3L",
+                    "modificationId": 2,
+                    "carName": {
+                        "name": "Chevrolet 3",
+                        "subName": "TAHOE-2"
+                    },
+                    "inStock": "В наличии",
+                    "price": "1 109 274 880 3",
+                    "image": "https://imageupload.io/ib/ydaVClTxyTVwEus_1694243683.jpg",
+                    "selects": {
+                        "generalInformation": [{
+                            "power": "252 кВт / 343 л. с. при 5600",
+                            "transmission": "10AT",
+                            "fuelConsumption": "12.6//17.9 л",
+                            "acceleration": "8 сек до 100 км/ч",
+                            "availability": "5",
+                            "queue": "53",
+                            "modification": "RT 5.3L3",
+                            "moreAboutModel": "Подробная информация о модели",
+                            "someGeneralInformation": ["Информация", "Еще инфомация", "Больше информации", "Еще больше информации"],
+                            "deliveryTime": "22.08.2023"
+                        }]
+                    },
+                    "colors": {
+                        "colorsNames": [
+                            "#9E4D5C",
+                            "#ffffff",
+                            "#D4D8F3",
+                            "#010101"
+                        ],
+                        "imageForColor": [
+                            "https://imageupload.io/ib/UgkIvkNrzLO8Acs_1694243288.png",
+                            "https://imageupload.io/ib/UgkIvkNrzLO8Acs_1694243288.png",
+                            "https://imageupload.io/ib/UgkIvkNrzLO8Acs_1694243288.png",
+                            "https://imageupload.io/ib/UgkIvkNrzLO8Acs_1694243288.png"
+                        ]
+                    },
+                    "contracts": [{
+                            "contractDetails": {
+                                "contractNumber": "12345678910",
+                                "orderDate": "01.02.2023",
+                                "dealer": "“BUXARA AVTO MAGNAT” MCHJ"
+                            }
+                        },
+                        {
+                            "contractDetails": {
+                                "model": "Chevrolet TAHOE-2",
+                                "modifications": "RT 5.3L",
+                                "VINNumber": "12345AA6789"
+                            }
+                        },
+                        {
+                            "contractDetails": {
+                                "queueNumber": "100",
+                                "expectedDate": "25.05.2023"
+                            }
+                        },
+                        {
+                            "contractDetails": {
+                                "totalCost": "1,109,274,880",
+                                "paidAmount": "109,274,880",
+                                "remainingAmount": "1,000,000,000"
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "carId": "1",
+            "modifications": {
+                "modification1": {
+                    "modificationName": "PREMIER 2 AT 3.6L",
+                    "modificationId": 0,
+                    "carName": {
+                        "name": "Chevrolet",
+                        "subName": "TRAVERSE"
+                    },
+                    "inStock": "В наличии",
+                    "price": "737 730 560",
+                    "image": "https://imageupload.io/ib/YBc2zgufgnFlyE6_1694243683.jpg",
+                    "selects": {
+                        "generalInformation": [{
+                            "power": "252 кВт / 343 л. с. при 5600",
+                            "transmission": "10AT",
+                            "fuelConsumption": "12.6//17.9 л",
+                            "acceleration": "8 сек до 100 км/ч",
+                            "availability": "5",
+                            "queue": "53",
+                            "modification": "PREMIER 2 AT 3.6L",
+                            "moreAboutModel": "Подробная информация о модели",
+                            "someGeneralInformation": ["Информация", "Еще инфомация", "Больше информации", "Еще больше информации"],
+                            "deliveryTime": "22.08.2023"
+                        }]
+                    },
+                    "colors": {
+                        "colorsNames": [
+                            "#9E4D5C",
+                            "#ffffff",
+                            "#D4D8F3",
+                            "#010101"
+                        ],
+                        "imageForColor": [
+                            "https://imageupload.io/ib/YD5Na8frPGxjiO3_1694243288.png",
+                            "https://imageupload.io/ib/YD5Na8frPGxjiO3_1694243288.png",
+                            "https://imageupload.io/ib/YD5Na8frPGxjiO3_1694243288.png",
+                            "https://imageupload.io/ib/YD5Na8frPGxjiO3_1694243288.png"
+                        ]
+                    },
+                    "contracts": [{
+                            "contractDetails": {
+                                "contractNumber": "12345678910",
+                                "orderDate": "01.02.2023",
+                                "dealer": "“BUXARA AVTO MAGNAT” MCHJ"
+                            }
+                        },
+                        {
+                            "contractDetails": {
+                                "model": "Chevrolet TAHOE-2",
+                                "modifications": "RT 5.3L",
+                                "VINNumber": "12345AA6789"
+                            }
+                        },
+                        {
+                            "contractDetails": {
+                                "queueNumber": "100",
+                                "expectedDate": "25.05.2023"
+                            }
+                        },
+                        {
+                            "contractDetails": {
+                                "totalCost": "1,109,274,880",
+                                "paidAmount": "109,274,880",
+                                "remainingAmount": "1,000,000,000"
+                            }
+                        }
+                    ]
+                },
+                "modification2": {
+                    "modificationName": "PREMIER 2 AT 3.6L",
+                    "modificationId": 1,
+                    "carName": {
+                        "name": "Chevrolet",
+                        "subName": "TRAVERSE"
+                    },
+                    "inStock": "Проданы",
+                    "price": "737 730 560",
+                    "image": "https://imageupload.io/ib/YBc2zgufgnFlyE6_1694243683.jpg",
+                    "selects": {
+                        "generalInformation": [{
+                            "power": "252 кВт / 343 л. с. при 5600",
+                            "transmission": "10AT",
+                            "fuelConsumption": "12.6//17.9 л",
+                            "acceleration": "8 сек до 100 км/ч",
+                            "availability": "5",
+                            "queue": "53",
+                            "modification": "PREMIER 2 AT 3.6L 2",
+                            "moreAboutModel": "Подробная информация о модели",
+                            "someGeneralInformation": ["Информация", "Еще инфомация", "Больше информации", "Еще больше информации"],
+                            "deliveryTime": "22.08.2023"
+                        }]
+                    },
+                    "colors": {
+                        "colorsNames": [
+                            "#9E4D5C",
+                            "#ffffff",
+                            "#D4D8F3",
+                            "#010101"
+                        ],
+                        "imageForColor": [
+                            "https://imageupload.io/ib/YD5Na8frPGxjiO3_1694243288.png",
+                            "https://imageupload.io/ib/YD5Na8frPGxjiO3_1694243288.png",
+                            "https://imageupload.io/ib/YD5Na8frPGxjiO3_1694243288.png",
+                            "https://imageupload.io/ib/YD5Na8frPGxjiO3_1694243288.png"
+                        ]
+                    },
+                    "contracts": [{
+                            "contractDetails": {
+                                "contractNumber": "12345678910",
+                                "orderDate": "01.02.2023",
+                                "dealer": "“BUXARA AVTO MAGNAT” MCHJ"
+                            }
+                        },
+                        {
+                            "contractDetails": {
+                                "model": "Chevrolet TAHOE-2",
+                                "modifications": "RT 5.3L",
+                                "VINNumber": "12345AA6789"
+                            }
+                        },
+                        {
+                            "contractDetails": {
+                                "queueNumber": "100",
+                                "expectedDate": "25.05.2023"
+                            }
+                        },
+                        {
+                            "contractDetails": {
+                                "totalCost": "1,109,274,880",
+                                "paidAmount": "109,274,880",
+                                "remainingAmount": "1,000,000,000"
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "carId": "2",
+            "modifications": {
+                "modification1": {
+                    "modificationName": "EQUINOX - AT 3LT AWD MH",
+                    "modificationId": 0,
+                    "carName": {
+                        "name": "Chevrolet",
+                        "subName": "EQUINOX"
+                    },
+                    "inStock": "В наличии",
+                    "price": "472 500 000",
+                    "image": "https://imageupload.io/ib/90jeZ4NXsBib9C6_1694243683.jpg",
+                    "selects": {
+                        "generalInformation": [{
+                            "power": "252 кВт / 343 л. с. при 5600",
+                            "transmission": "10AT",
+                            "fuelConsumption": "12.6//17.9 л",
+                            "acceleration": "8 сек до 100 км/ч",
+                            "availability": "5",
+                            "queue": "53",
+                            "modification": "EQUINOX - AT 3LT AWD MH",
+                            "moreAboutModel": "Подробная информация о модели",
+                            "someGeneralInformation": ["Информация", "Еще инфомация", "Больше информации", "Еще больше информации"],
+                            "deliveryTime": "22.08.2023"
+                        }]
+                    },
+                    "colors": {
+                        "colorsNames": [
+                            "#9E4D5C",
+                            "#ffffff",
+                            "#D4D8F3",
+                            "#010101"
+                        ],
+                        "imageForColor": [
+                            "https://imageupload.io/ib/gwgvU2aoS925HOq_1694243288.png",
+                            "https://imageupload.io/ib/gwgvU2aoS925HOq_1694243288.png",
+                            "https://imageupload.io/ib/gwgvU2aoS925HOq_1694243288.png",
+                            "https://imageupload.io/ib/gwgvU2aoS925HOq_1694243288.png"
+                        ]
+                    },
+                    "contracts": [{
+                            "contractDetails": {
+                                "contractNumber": "12345678910",
+                                "orderDate": "01.02.2023",
+                                "dealer": "“BUXARA AVTO MAGNAT” MCHJ"
+                            }
+                        },
+                        {
+                            "contractDetails": {
+                                "model": "Chevrolet TAHOE-2",
+                                "modifications": "RT 5.3L",
+                                "VINNumber": "12345AA6789"
+                            }
+                        },
+                        {
+                            "contractDetails": {
+                                "queueNumber": "100",
+                                "expectedDate": "25.05.2023"
+                            }
+                        },
+                        {
+                            "contractDetails": {
+                                "totalCost": "1,109,274,880",
+                                "paidAmount": "109,274,880",
+                                "remainingAmount": "1,000,000,000"
+                            }
+                        }
+                    ]
+                },
+                "modification2": {
+                    "modificationName": "EQUINOX - AT 3LT AWD MH",
+                    "modificationId": 1,
+                    "carName": {
+                        "name": "Chevrolet",
+                        "subName": "EQUINOX"
+                    },
+                    "inStock": "В наличии",
+                    "price": "472 500 000",
+                    "image": "https://imageupload.io/ib/90jeZ4NXsBib9C6_1694243683.jpg",
+                    "selects": {
+                        "generalInformation": [{
+                            "power": "252 кВт / 343 л. с. при 5600",
+                            "transmission": "10AT",
+                            "fuelConsumption": "12.6//17.9 л",
+                            "acceleration": "8 сек до 100 км/ч",
+                            "availability": "5",
+                            "queue": "53",
+                            "modification": "EQUINOX - AT 3LT AWD MH 2",
+                            "moreAboutModel": "Подробная информация о модели",
+                            "someGeneralInformation": ["Информация", "Еще инфомация", "Больше информации", "Еще больше информации"],
+                            "deliveryTime": "22.08.2023"
+                        }]
+                    },
+                    "colors": {
+                        "colorsNames": [
+                            "#9E4D5C",
+                            "#ffffff",
+                            "#D4D8F3",
+                            "#010101"
+                        ],
+                        "imageForColor": [
+                            "https://imageupload.io/ib/gwgvU2aoS925HOq_1694243288.png",
+                            "https://imageupload.io/ib/gwgvU2aoS925HOq_1694243288.png",
+                            "https://imageupload.io/ib/gwgvU2aoS925HOq_1694243288.png",
+                            "https://imageupload.io/ib/gwgvU2aoS925HOq_1694243288.png"
+                        ]
+                    },
+                    "contracts": [{
+                            "contractDetails": {
+                                "contractNumber": "12345678910",
+                                "orderDate": "01.02.2023",
+                                "dealer": "“BUXARA AVTO MAGNAT” MCHJ"
+                            }
+                        },
+                        {
+                            "contractDetails": {
+                                "model": "Chevrolet TAHOE-2",
+                                "modifications": "RT 5.3L",
+                                "VINNumber": "12345AA6789"
+                            }
+                        },
+                        {
+                            "contractDetails": {
+                                "queueNumber": "100",
+                                "expectedDate": "25.05.2023"
+                            }
+                        },
+                        {
+                            "contractDetails": {
+                                "totalCost": "1,109,274,880",
+                                "paidAmount": "109,274,880",
+                                "remainingAmount": "1,000,000,000"
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "carId": "3",
+            "modifications": {
+                "modification1": {
+                    "modificationName": "MALBDB 9AT LTZ",
+                    "modificationId": 0,
+                    "carName": {
+                        "name": "Chevrolet",
+                        "subName": "MALIBU-2"
+                    },
+                    "inStock": "В наличии",
+                    "price": "419 000 960",
+                    "image": "https://imageupload.io/ib/EmZ3sQAbh2lpI3X_1694243683.jpg",
+                    "selects": {
+                        "generalInformation": [{
+                            "power": "252 кВт / 343 л. с. при 5600",
+                            "transmission": "10AT",
+                            "fuelConsumption": "12.6//17.9 л",
+                            "acceleration": "8 сек до 100 км/ч",
+                            "availability": "5",
+                            "queue": "53",
+                            "modification": "MALBDB 9AT LTZ",
+                            "moreAboutModel": "Подробная информация о модели",
+                            "someGeneralInformation": ["Информация", "Еще инфомация", "Больше информации", "Еще больше информации"],
+                            "deliveryTime": "22.08.2023"
+                        }]
+                    },
+                    "colors": {
+                        "colorsNames": [
+                            "#9E4D5C",
+                            "#ffffff",
+                            "#D4D8F3",
+                            "#010101"
+                        ],
+                        "imageForColor": [
+                            "https://imageupload.io/ib/ZY1UOWzfTPIorrA_1694243414.png",
+                            "https://imageupload.io/ib/ZY1UOWzfTPIorrA_1694243414.png",
+                            "https://imageupload.io/ib/ZY1UOWzfTPIorrA_1694243414.png",
+                            "https://imageupload.io/ib/ZY1UOWzfTPIorrA_1694243414.png"
+                        ]
+                    },
+                    "contracts": [{
+                            "contractDetails": {
+                                "contractNumber": "12345678910",
+                                "orderDate": "01.02.2023",
+                                "dealer": "“BUXARA AVTO MAGNAT” MCHJ"
+                            }
+                        },
+                        {
+                            "contractDetails": {
+                                "model": "Chevrolet TAHOE-2",
+                                "modifications": "RT 5.3L",
+                                "VINNumber": "12345AA6789"
+                            }
+                        },
+                        {
+                            "contractDetails": {
+                                "queueNumber": "100",
+                                "expectedDate": "25.05.2023"
+                            }
+                        },
+                        {
+                            "contractDetails": {
+                                "totalCost": "1,109,274,880",
+                                "paidAmount": "109,274,880",
+                                "remainingAmount": "1,000,000,000"
+                            }
+                        }
+                    ]
+                },
+                "modification2": {
+                    "modificationName": "MALBDB 9AT LTZ",
+                    "modificationId": 1,
+                    "carName": {
+                        "name": "Chevrolet",
+                        "subName": "MALIBU-2"
+                    },
+                    "inStock": "В наличии",
+                    "price": "419 000 960",
+                    "image": "https://imageupload.io/ib/EmZ3sQAbh2lpI3X_1694243683.jpg",
+                    "selects": {
+                        "generalInformation": [{
+                            "power": "252 кВт / 343 л. с. при 5600",
+                            "transmission": "10AT",
+                            "fuelConsumption": "12.6//17.9 л",
+                            "acceleration": "8 сек до 100 км/ч",
+                            "availability": "5",
+                            "queue": "53",
+                            "modification": "MALBDB 9AT LTZ 2",
+                            "moreAboutModel": "Подробная информация о модели",
+                            "someGeneralInformation": ["Информация", "Еще инфомация", "Больше информации", "Еще больше информации"],
+                            "deliveryTime": "22.08.2023"
+                        }]
+                    },
+                    "colors": {
+                        "colorsNames": [
+                            "#9E4D5C",
+                            "#ffffff",
+                            "#D4D8F3",
+                            "#010101"
+                        ],
+                        "imageForColor": [
+                            "https://imageupload.io/ib/ZY1UOWzfTPIorrA_1694243414.png",
+                            "https://imageupload.io/ib/ZY1UOWzfTPIorrA_1694243414.png",
+                            "https://imageupload.io/ib/ZY1UOWzfTPIorrA_1694243414.png",
+                            "https://imageupload.io/ib/ZY1UOWzfTPIorrA_1694243414.png"
+                        ]
+                    },
+                    "contracts": [{
+                            "contractDetails": {
+                                "contractNumber": "12345678910",
+                                "orderDate": "01.02.2023",
+                                "dealer": "“BUXARA AVTO MAGNAT” MCHJ"
+                            }
+                        },
+                        {
+                            "contractDetails": {
+                                "model": "Chevrolet TAHOE-2",
+                                "modifications": "RT 5.3L",
+                                "VINNumber": "12345AA6789"
+                            }
+                        },
+                        {
+                            "contractDetails": {
+                                "queueNumber": "100",
+                                "expectedDate": "25.05.2023"
+                            }
+                        },
+                        {
+                            "contractDetails": {
+                                "totalCost": "1,109,274,880",
+                                "paidAmount": "109,274,880",
+                                "remainingAmount": "1,000,000,000"
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "carId": "4",
+            "modifications": {
+                "modification1": {
+                    "modificationName": "TRK LS PLUS",
+                    "modificationId": 0,
+                    "carName": {
+                        "name": "Chevrolet",
+                        "subName": "TRACKER-2"
+                    },
+                    "inStock": "В наличии",
+                    "price": "223 824 160",
+                    "image": "https://imageupload.io/ib/BRkMJd7sLflffFv_1694243683.jpg",
+                    "selects": {
+                        "generalInformation": [{
+                            "power": "252 кВт / 343 л. с. при 5600",
+                            "transmission": "10AT",
+                            "fuelConsumption": "12.6//17.9 л",
+                            "acceleration": "8 сек до 100 км/ч",
+                            "availability": "5",
+                            "queue": "53",
+                            "modification": "TRK LS PLUS",
+                            "moreAboutModel": "Подробная информация о модели",
+                            "someGeneralInformation": ["Информация", "Еще инфомация", "Больше информации", "Еще больше информации"],
+                            "deliveryTime": "22.08.2023"
+                        }]
+                    },
+                    "colors": {
+                        "colorsNames": [
+                            "#9E4D5C",
+                            "#ffffff",
+                            "#D4D8F3",
+                            "#010101"
+                        ],
+                        "imageForColor": [
+                            "https://imageupload.io/ib/sGlYnWAAtuuAN7H_1694243288.png",
+                            "https://imageupload.io/ib/sGlYnWAAtuuAN7H_1694243288.png",
+                            "https://imageupload.io/ib/sGlYnWAAtuuAN7H_1694243288.png",
+                            "https://imageupload.io/ib/sGlYnWAAtuuAN7H_1694243288.png"
+                        ]
+                    },
+                    "contracts": [{
+                            "contractDetails": {
+                                "contractNumber": "12345678910",
+                                "orderDate": "01.02.2023",
+                                "dealer": "“BUXARA AVTO MAGNAT” MCHJ"
+                            }
+                        },
+                        {
+                            "contractDetails": {
+                                "model": "Chevrolet TAHOE-2",
+                                "modifications": "RT 5.3L",
+                                "VINNumber": "12345AA6789"
+                            }
+                        },
+                        {
+                            "contractDetails": {
+                                "queueNumber": "100",
+                                "expectedDate": "25.05.2023"
+                            }
+                        },
+                        {
+                            "contractDetails": {
+                                "totalCost": "1,109,274,880",
+                                "paidAmount": "109,274,880",
+                                "remainingAmount": "1,000,000,000"
+                            }
+                        }
+                    ]
+                },
+                "modification2": {
+                    "modificationName": "TRK LS PLUS",
+                    "modificationId": 1,
+                    "carName": {
+                        "name": "Chevrolet",
+                        "subName": "TRACKER-2"
+                    },
+                    "inStock": "В наличии",
+                    "price": "223 824 160",
+                    "image": "https://imageupload.io/ib/BRkMJd7sLflffFv_1694243683.jpg",
+                    "selects": {
+                        "generalInformation": [{
+                            "power": "252 кВт / 343 л. с. при 5600",
+                            "transmission": "10AT",
+                            "fuelConsumption": "12.6//17.9 л",
+                            "acceleration": "8 сек до 100 км/ч",
+                            "availability": "5",
+                            "queue": "53",
+                            "modification": "TRK LS PLUS 2",
+                            "moreAboutModel": "Подробная информация о модели",
+                            "someGeneralInformation": ["Информация", "Еще инфомация", "Больше информации", "Еще больше информации"],
+                            "deliveryTime": "22.08.2023"
+                        }]
+                    },
+                    "colors": {
+                        "colorsNames": [
+                            "#9E4D5C",
+                            "#ffffff",
+                            "#D4D8F3",
+                            "#010101"
+                        ],
+                        "imageForColor": [
+                            "https://imageupload.io/ib/sGlYnWAAtuuAN7H_1694243288.png",
+                            "https://imageupload.io/ib/sGlYnWAAtuuAN7H_1694243288.png",
+                            "https://imageupload.io/ib/sGlYnWAAtuuAN7H_1694243288.png",
+                            "https://imageupload.io/ib/sGlYnWAAtuuAN7H_1694243288.png"
+                        ]
+                    },
+                    "contracts": [{
+                            "contractDetails": {
+                                "contractNumber": "12345678910",
+                                "orderDate": "01.02.2023",
+                                "dealer": "“BUXARA AVTO MAGNAT” MCHJ"
+                            }
+                        },
+                        {
+                            "contractDetails": {
+                                "model": "Chevrolet TAHOE-2",
+                                "modifications": "RT 5.3L",
+                                "VINNumber": "12345AA6789"
+                            }
+                        },
+                        {
+                            "contractDetails": {
+                                "queueNumber": "100",
+                                "expectedDate": "25.05.2023"
+                            }
+                        },
+                        {
+                            "contractDetails": {
+                                "totalCost": "1,109,274,880",
+                                "paidAmount": "109,274,880",
+                                "remainingAmount": "1,000,000,000"
+                            }
+                        }
+                    ]
+                },
+                "modification3": {
+                    "modificationName": "TRK LS PLUS",
+                    "modificationId": 2,
+                    "carName": {
+                        "name": "Chevrolet",
+                        "subName": "TRACKER-2"
+                    },
+                    "inStock": "В наличии",
+                    "price": "223 824 160",
+                    "image": "https://imageupload.io/ib/BRkMJd7sLflffFv_1694243683.jpg",
+                    "selects": {
+                        "generalInformation": [{
+                            "power": "252 кВт / 343 л. с. при 5600",
+                            "transmission": "10AT",
+                            "fuelConsumption": "12.6//17.9 л",
+                            "acceleration": "8 сек до 100 км/ч",
+                            "availability": "5",
+                            "queue": "53",
+                            "modification": "TRK LS PLUS 3",
+                            "moreAboutModel": "Подробная информация о модели",
+                            "someGeneralInformation": ["Информация", "Еще инфомация", "Больше информации", "Еще больше информации"],
+                            "deliveryTime": "22.08.2023"
+                        }]
+                    },
+                    "colors": {
+                        "colorsNames": [
+                            "#9E4D5C",
+                            "#ffffff",
+                            "#D4D8F3",
+                            "#010101"
+                        ],
+                        "imageForColor": [
+                            "https://imageupload.io/ib/sGlYnWAAtuuAN7H_1694243288.png",
+                            "https://imageupload.io/ib/sGlYnWAAtuuAN7H_1694243288.png",
+                            "https://imageupload.io/ib/sGlYnWAAtuuAN7H_1694243288.png",
+                            "https://imageupload.io/ib/sGlYnWAAtuuAN7H_1694243288.png"
+                        ]
+                    },
+                    "contracts": [{
+                            "contractDetails": {
+                                "contractNumber": "12345678910",
+                                "orderDate": "01.02.2023",
+                                "dealer": "“BUXARA AVTO MAGNAT” MCHJ"
+                            }
+                        },
+                        {
+                            "contractDetails": {
+                                "model": "Chevrolet TAHOE-2",
+                                "modifications": "RT 5.3L",
+                                "VINNumber": "12345AA6789"
+                            }
+                        },
+                        {
+                            "contractDetails": {
+                                "queueNumber": "100",
+                                "expectedDate": "25.05.2023"
+                            }
+                        },
+                        {
+                            "contractDetails": {
+                                "totalCost": "1,109,274,880",
+                                "paidAmount": "109,274,880",
+                                "remainingAmount": "1,000,000,000"
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "carId": "5",
+            "modifications": {
+                "modification1": {
+                    "modificationName": "Premier 2 Turbo AT PLUS",
+                    "modificationId": 0,
+                    "carName": {
+                        "name": "Chevrolet",
+                        "subName": "ONIX"
+                    },
+                    "inStock": "В наличии",
+                    "price": "221 640 160",
+                    "image": "https://imageupload.io/ib/lqoxd0xKoKIyT1o_1694243764.jpg",
+                    "selects": {
+                        "generalInformation": [{
+                            "power": "252 кВт / 343 л. с. при 5600",
+                            "transmission": "10AT",
+                            "fuelConsumption": "12.6//17.9 л",
+                            "acceleration": "8 сек до 100 км/ч",
+                            "availability": "5",
+                            "queue": "53",
+                            "modification": "Premier 2 Turbo AT PLUS",
+                            "moreAboutModel": "Подробная информация о модели",
+                            "someGeneralInformation": ["Информация", "Еще инфомация", "Больше информации", "Еще больше информации"],
+                            "deliveryTime": "22.08.2023"
+                        }]
+                    },
+                    "colors": {
+                        "colorsNames": [
+                            "#9E4D5C",
+                            "#ffffff",
+                            "#D4D8F3",
+                            "#010101"
+                        ],
+                        "imageForColor": [
+                            "https://imageupload.io/ib/YB2Sdd91pNIeiGL_1694243608.png",
+                            "https://imageupload.io/ib/YB2Sdd91pNIeiGL_1694243608.png",
+                            "https://imageupload.io/ib/YB2Sdd91pNIeiGL_1694243608.png",
+                            "https://imageupload.io/ib/YB2Sdd91pNIeiGL_1694243608.png"
+                        ]
+                    },
+                    "contracts": [{
+                            "contractDetails": {
+                                "contractNumber": "12345678910",
+                                "orderDate": "01.02.2023",
+                                "dealer": "“BUXARA AVTO MAGNAT” MCHJ"
+                            }
+                        },
+                        {
+                            "contractDetails": {
+                                "model": "Chevrolet TAHOE-2",
+                                "modifications": "RT 5.3L",
+                                "VINNumber": "12345AA6789"
+                            }
+                        },
+                        {
+                            "contractDetails": {
+                                "queueNumber": "100",
+                                "expectedDate": "25.05.2023"
+                            }
+                        },
+                        {
+                            "contractDetails": {
+                                "totalCost": "1,109,274,880",
+                                "paidAmount": "109,274,880",
+                                "remainingAmount": "1,000,000,000"
+                            }
+                        }
+                    ]
+                },
+                "modification2": {
+                    "modificationName": "Premier 2 Turbo AT PLUS",
+                    "modificationId": 1,
+                    "carName": {
+                        "name": "Chevrolet",
+                        "subName": "ONIX"
+                    },
+                    "inStock": "В наличии",
+                    "price": "221 640 160",
+                    "image": "https://imageupload.io/ib/lqoxd0xKoKIyT1o_1694243764.jpg",
+                    "selects": {
+                        "generalInformation": [{
+                            "power": "252 кВт / 343 л. с. при 5600",
+                            "transmission": "10AT",
+                            "fuelConsumption": "12.6//17.9 л",
+                            "acceleration": "8 сек до 100 км/ч",
+                            "availability": "5",
+                            "queue": "53",
+                            "modification": "Premier 2 Turbo AT PLUS 2",
+                            "moreAboutModel": "Подробная информация о модели",
+                            "someGeneralInformation": ["Информация", "Еще инфомация", "Больше информации", "Еще больше информации"],
+                            "deliveryTime": "22.08.2023"
+                        }]
+                    },
+                    "colors": {
+                        "colorsNames": [
+                            "#9E4D5C",
+                            "#ffffff",
+                            "#D4D8F3",
+                            "#010101"
+                        ],
+                        "imageForColor": [
+                            "https://imageupload.io/ib/YB2Sdd91pNIeiGL_1694243608.png",
+                            "https://imageupload.io/ib/YB2Sdd91pNIeiGL_1694243608.png",
+                            "https://imageupload.io/ib/YB2Sdd91pNIeiGL_1694243608.png",
+                            "https://imageupload.io/ib/YB2Sdd91pNIeiGL_1694243608.png"
+                        ]
+                    },
+                    "contracts": [{
+                            "contractDetails": {
+                                "contractNumber": "12345678910",
+                                "orderDate": "01.02.2023",
+                                "dealer": "“BUXARA AVTO MAGNAT” MCHJ"
+                            }
+                        },
+                        {
+                            "contractDetails": {
+                                "model": "Chevrolet TAHOE-2",
+                                "modifications": "RT 5.3L",
+                                "VINNumber": "12345AA6789"
+                            }
+                        },
+                        {
+                            "contractDetails": {
+                                "queueNumber": "100",
+                                "expectedDate": "25.05.2023"
+                            }
+                        },
+                        {
+                            "contractDetails": {
+                                "totalCost": "1,109,274,880",
+                                "paidAmount": "109,274,880",
+                                "remainingAmount": "1,000,000,000"
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "regions": [
+        {"name": "Бухара", "id": 0},
+        {"name": "Бухара 2", "id": 1},
+        {"name": "Бухара 3", "id": 2},
+        {"name": "Бухара 4", "id": 3},
+        {"name": "Бухара 5", "id": 4},
+        {"name": "Бухара 6", "id": 5}
+    ]
+}
